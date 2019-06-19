@@ -83,8 +83,7 @@ function inquireToBuy() {
       //This means updating the SQL database to reflect the remaining quantity.
       //Once the update goes through, show the customer the total cost of their purchase.
       } else {
-        buyerTotal = res[0].price * userReply.amount;
-        department = res[0].department_name;
+        var buyerTotal = res[0].price * userReply.amount;
         console.log("The total amount due is $ " + buyerTotal);
         console.log("Thanks for shopping at BAMAZON");
         var updateStock = res[0].stock_quantity - parseInt(userReply.amount);

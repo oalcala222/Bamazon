@@ -28,7 +28,7 @@ VALUES ("90712","tylenol","health",6.77,12);
 INSERT INTO bamazon (item_id, product_name, department_name, price, stock_quantity)
 VALUES ("88452","rc car","toys",39.99,4);
 /*INSERT INTO bamazon (item_id, product_name, department_name, price, stock_quantity)
-VALUES ("56412","slime", );
+VALUES ("56412","slime",);
 INSERT INTO bamazon (item_id, product_name, department_name, price, stock_quantity)
 VALUES ("88005");
 INSERT INTO bamazon (item_id, product_name, department_name, price, stock_quantity)
