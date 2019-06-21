@@ -10,17 +10,19 @@ Within the CLI, the customer can view the inventory and quantity and select an i
 
 
 
-## Parameters:
-  * "**ID**" **INQUIRER**
+## Parameters and Functions:
+  * "**ID**" **INQUIRER PROMPT**
       - When Inquirer prompts the user with the ID request, the user can input the ID of the item they would like to purchase. 
 
       ![Image](https://i.imgur.com/azywzsM.png)
       
-  - "**Amount**" **INQUIRER**
+  - "**Amount**" **INQUIRER PROMPT**
      - The user will the get prompted for the amount of the item. 
 
       ![Image](https://i.imgur.com/ZnhE9D5.png)
-        
+
+
+  ![Image](https://i.imgur.com/ytnxG6v.png)      
  
 ## Dependancies Used in app:
 
@@ -29,21 +31,23 @@ Within the CLI, the customer can view the inventory and quantity and select an i
 - cli-table
 
 ![Image](https://i.imgur.com/kBOsDhp.png)
+![Image](https://i.imgur.com/a8ZiJyE.png)
+![Image](https://i.imgur.com/2ihoKhs.png)
 
 
 ## Images of Functioning app:
 
-![Image](https://i.imgur.com/vVhBbYM.png)
+![Image](https://i.imgur.com/jvAJUxm.png)
 ***
-![Image](https://i.imgur.com/thXHwPB.png)
+![Image](https://i.imgur.com/nXorBJ7.png)
 ***
-![Image](https://i.imgur.com/7A2wWc3.png)
+![Image](https://i.imgur.com/ytnxG6v.png)
 ***
-![Image](https://i.imgur.com/lc5dmtO.png)
+![Image](https://i.imgur.com/Glzm0M0.png)
 ***
-![Image](https://i.imgur.com/REXEjqH.png)
+![Image](https://i.imgur.com/9dDhk2o.png)
 ***
-![Image](https://i.imgur.com/tfbzDY9.png)
+![Image](https://i.imgur.com/zHSjwIh.png)
 
 
 
