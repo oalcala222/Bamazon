@@ -27,19 +27,19 @@ INSERT INTO bamazon (item_id, product_name, department_name, price, stock_quanti
 VALUES ("90712","tylenol","health",6.77,12);
 INSERT INTO bamazon (item_id, product_name, department_name, price, stock_quantity)
 VALUES ("88452","rc car","toys",39.99,4);
-/*INSERT INTO bamazon (item_id, product_name, department_name, price, stock_quantity)
-VALUES ("56412","slime",);
 INSERT INTO bamazon (item_id, product_name, department_name, price, stock_quantity)
-VALUES ("88005");
+VALUES ("56412","t-shirt","clothing",9.99,20);
 INSERT INTO bamazon (item_id, product_name, department_name, price, stock_quantity)
-VALUES ("11562");
+VALUES ("88005","headphones","electronics",29.99,11);
 INSERT INTO bamazon (item_id, product_name, department_name, price, stock_quantity)
-VALUES ("00788");
+VALUES ("11562","vans classic","shoes",54.99,3);
 INSERT INTO bamazon (item_id, product_name, department_name, price, stock_quantity)
-VALUES ("71265");
+VALUES ("00788","toilet paper","home goods",9.99,0);
 INSERT INTO bamazon (item_id, product_name, department_name, price, stock_quantity)
-VALUES ("34511");
+VALUES ("71265","basketball","sporting goods",24.50,2);
 INSERT INTO bamazon (item_id, product_name, department_name, price, stock_quantity)
-VALUES ("12874");
+VALUES ("34511","playstation 4","video games",349.99,10);
 INSERT INTO bamazon (item_id, product_name, department_name, price, stock_quantity)
-VALUES ("99993");*/
+VALUES ("12874","LG OLED TV", "electronics", 1699.99,1);
+INSERT INTO bamazon (item_id, product_name, department_name, price, stock_quantity)
+VALUES ("99993","old spice deoderant","hygiene",4.99,5);
