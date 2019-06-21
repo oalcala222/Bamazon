@@ -1,6 +1,6 @@
 # **Bamazon**
 ***
-The Bamazon App is a fully functioning Amazon-like CLI storefront built with MySQL and Node.js that allows users to purchase items by running the bamazon. Through the CLI, the user will run the bamazonCustomer.js file using node to view the storefront. 
+The Bamazon Application is a fully functioning Amazon-like CLI storefront that is built with MySQL and Node.js.  It allows users to purchase items by running the bamazonCustomer.js file using the cli and node to view the storefront. 
 
 Within the CLI, the customer can view the inventory and quantity and select an item that they would like to buy. With the use of the inquirer, the terminal will then verify the information inputed to make sure that the item can be purchased or if there is not enough stock, cancel the purchase and reinitiate the command prompts:
 
